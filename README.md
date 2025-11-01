@@ -1,4 +1,5 @@
 # Server Stats Script 🖥️
+https://github.com/Flcable/Server_Performance_Stats
 
 A lightweight Bash script for monitoring basic Linux server statistics.
 
